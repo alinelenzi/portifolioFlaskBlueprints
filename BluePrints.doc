@@ -1,0 +1,3 @@
+Blueprints permite q a gente consiga criar mini aplicações, módulos dentro da nossa aplicação com flask, consegue modularizar a aplicação. Vamos incluindo rotas no mesmo arquivo e ele vai ficando grande, e aos poucos acaba q vai embolando as rotas e o arquivo vai ficando maior, dificultando a organização e a manutenção.
+
+Blueprints no Flask são uma forma de organizar um grupo de visualizações relacionadas e outros códigos. Em vez de registrar visualizações e códigos diretamente em uma aplicação, eles são registrados em um blueprint, que é então registrado na aplicação na função
